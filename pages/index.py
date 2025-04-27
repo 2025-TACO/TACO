@@ -29,7 +29,6 @@ def open_signup_page():
 ctk.set_appearance_mode("light")
 ctk.set_default_color_theme("blue")
 
-# 메인 윈도우
 root = ctk.CTk()
 root.title("TACO")
 root.geometry("1920x1080")
