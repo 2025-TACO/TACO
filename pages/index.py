@@ -17,7 +17,7 @@ def open_login_page():
 def open_signup_page():
     python = sys.executable
     subprocess.Popen(
-        [python, "login.py"],
+        [python, "signup.py"],
         cwd = os.getcwd(),  # 현재 작업 디렉토리
         stdout = subprocess.PIPE,
         stderr = subprocess.PIPE,
@@ -50,7 +50,7 @@ frame.place(
 frame.pack_propagate(False)
 
 # 프레임 중앙 배치
-container = ctk.CTkFrame(frame, fg_color = " transparent")
+container = ctk.CTkFrame(frame, fg_color = "transparent")
 container.place(
     relx = 0.5,
     rely = 0.5,
