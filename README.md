@@ -3,7 +3,9 @@
   <p>2025년 python 수행평가 프로젝트 <b>TACO</b>는 </br>
     개발자 지망생을 위해 만들어진 코드 타자 연습 서비스입니다.
   </p> 
+  <img src = https://github.com/user-attachments/assets/64161091-f218-4ec1-8e39-685f54924d0e width="500" height="500"/>
 </div>
+
 
 </br>
 </br>
@@ -20,8 +22,8 @@ Python GUI와 SQLite 데이터베이스를 활용하여 완전히 Python 기반�
 
 ## 👥 Team Members (팀원 및 팀 소개)
 <ul>
-  <li><a href="https://github.com/cuzurmyhabit">지수민</a></li>
-  <li><a href="https://github.com/siwoong28">윤시웅</a></li>
+  <li><a href="https://github.com/cuzurmyhabit">지수민</a> - 기획, FE 개발, 통계, 로그인 및 회원 가입 구현</li>
+  <li><a href="https://github.com/siwoong28">윤시웅</a> - 기획, BE 개발, DB</li>
 </ul>
 
 </br>
@@ -63,6 +65,10 @@ Python GUI와 SQLite 데이터베이스를 활용하여 완전히 Python 기반�
 
  </br>
  </br>
+
+## 시웅이에게 이 영광을...
+
+![Image](https://github.com/user-attachments/assets/7c3f5b22-688d-42ab-9435-964c7ac1e890)
 
  ## type 종류
 
