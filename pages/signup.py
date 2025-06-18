@@ -1,9 +1,15 @@
-import customtkinter as ctk
-import subprocess
-import sys
-import os
-import db
+import customtkinter as ctk  # GUI 생성을 위한 라이브러리
+import subprocess  # 외부 프로세스 실행용
+import sys  # 시스템 기능 사용
+import os  # 파일 경로 관리
+import db  # 데이터베이스 관리
 db.create_tables()
+# 함수 정의:
+# back_login(): 로그인 페이지로 돌아가는 함수입니다. 현재 창을 닫고 login.py를 실행
+# register_user(): 회원가입 처리를 담당
+# 입력값 검증 (빈 값, 비밀번호 일치)
+# 데이터베이스 연결 및 ID 중복 검사
+# 새 사용자 등록
 
 def back_login():
     subprocess.Popen([sys.executable, os.path.abspath("login.py")])
