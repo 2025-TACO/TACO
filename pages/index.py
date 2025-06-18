@@ -106,6 +106,7 @@ signup_button = ctk.CTkButton(
     border_width = 1,
     hover_color = "#e0e0e0",
     command = open_signup_page
+    
 )
 signup_button.grid(
     row = 0,
